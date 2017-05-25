@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Steve Jones
 
-I like to:
+I like to: Code and write stand-up comedy
 
-I'm learning:
+I'm learning: Web development
 
 ```
 
